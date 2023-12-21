@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"LC(LG(q))"
+		],
+		"description": "LC(LG(q))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
